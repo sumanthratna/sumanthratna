@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**sumanthratna/sumanthratna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+- 🔭 I’m a student at TJHSST, a digital pathology intern at [Dartmouth-Hitchcock Medical Center](https://github.com/DHMC-EDIT), and a bionformatics intern at George Mason University
+- 💻 I work mostly on machine learning and computational biology projects
+- 😄 Pronouns: he/him
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Links
+- [personal website](https://sumanthratna.ml)
+- [LinkedIn](https://www.linkedin.com/in/sumanthratna/)
+- [GitHub](https://github.com/sumanthratna)
+- [Twitter](https://twitter.com/sumanthratna)
+- [StackOverflow](https://stackoverflow.com/users/7127932/sumanth-ratna?tab=profile)
