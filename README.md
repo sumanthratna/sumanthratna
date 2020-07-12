@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### About
-- 🔭 I’m a student at TJHSST, a digital pathology intern at [Dartmouth-Hitchcock Medical Center](https://github.com/DHMC-EDIT), and a bionformatics intern at George Mason University
+- 🔭 I’m a student at TJHSST, a digital pathology intern at [Dartmouth-Hitchcock Medical Center](https://github.com/DHMC-EDIT), a bionformatics intern at George Mason University, and a [HackTJ](https://github.com/HackTJ) organizer
 - 💻 I work mostly on machine learning and computational biology projects
 - 😄 Pronouns: he/him
 
