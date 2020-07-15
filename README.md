@@ -1,26 +1,44 @@
 ### Hi there 👋
 
-#### About
-- 🔭 I’m a student at TJHSST, a digital pathology intern at [Dartmouth-Hitchcock Medical Center](https://github.com/DHMC-EDIT), a bionformatics intern at George Mason University, and a [HackTJ](https://github.com/HackTJ) organizer
-- 💻 I work mostly on machine learning and computational biology projects
-- 😄 Pronouns: he/him
-
-#### Links
-- [personal website](https://sumanthratna.ml)
-- [LinkedIn](https://www.linkedin.com/in/sumanthratna/)
-- [GitHub](https://github.com/sumanthratna)
-- [Twitter](https://twitter.com/sumanthratna)
-- [StackOverflow](https://stackoverflow.com/users/7127932/sumanth-ratna?tab=profile)
-
-#### Projects
-Pretty much everything I do is on GitHub. Here are some repositories you might find interesting:
-- [viewmask](https://github.com/sumanthratna/viewmask)
-- [eAbsentee](https://github.com/eAbsentee/eAbsentee)
-- [politirate](https://github.com/o-wth/politirate)
-- [website](https://github.com/sumanthratna/website)
-- [tic-tac-toe](https://github.com/sumanthratna/tic-tac-toe)
-- [mugen](https://github.com/o-wth/mugen)
-- [FCPS Grade View](https://github.com/sumanthratna/grade_view)
-- [practica-api](https://github.com/sumanthratna/practica-api)
-- [soundcloud9000](https://github.com/sumanthratna/soundcloud9000)
-- [dotfiles](https://github.com/sumanthratna/dotprophet)
+<table>
+  <tbody>
+    <tr>
+      <th align="center"><h4>About</h4></th>
+      <th align="center"><h4>Links</h4></th>
+      <th align="center"><h4>Projects</h4></th>
+    </tr>
+    <tr>
+      <td align="left" style="vertical-align: top;" valign="top">
+        <ul>
+          <li>🔭 I’m a student at TJHSST, a digital pathology intern at <a href="https://github.com/DHMC-EDIT" target="_blank" rel="noopener">Dartmouth-Hitchcock Medical Center</a>, a bionformatics intern at George Mason University, and a <a href="https://github.com/HackTJ" target="_blank" rel="noopener">HackTJ</a> organizer</li>
+          <li>💻 Now, I mostly work on machine learning and computational biology projects, but I have experience with mobile/web development</li>
+          <li>😄 Pronouns: he/him</li>
+        </ul>
+      </td>
+      <td align="left" style="vertical-align: top;" valign="top">
+        <ul>
+          <li><a href="https://sumanthratna.ml" target="_blank" rel="noopener">personal website</a></li>
+          <li><a href="https://www.linkedin.com/in/sumanthratna/" target="_blank" rel="noopener">LinkedIn</a></li>
+          <li><a href="https://github.com/sumanthratna" target="_blank" rel="noopener">GitHub</a></li>
+          <li><a href="https://twitter.com/sumanthratna" target="_blank" rel="noopener">Twitter</a></li>
+          <li><a href="https://stackoverflow.com/users/7127932/sumanth-ratna?tab=profile" target="_blank" rel="noopener">StackOverflow</a></li>
+        </ul>
+      </td>
+      <td align="left" style="vertical-align: top;" valign="top">
+        Pretty much everything I do is on GitHub. Here are some repositories you might find interesting:
+        <ul>
+          <li><a href="https://github.com/sumanthratna/viewmask" target="_blank" rel="noopener">viewmask</a></li>
+          <li><a href="https://github.com/eAbsentee/eAbsentee" target="_blank" rel="noopener">eAbsentee</a></li>
+          <li><a href="https://github.com/o-wth/politirate" target="_blank" rel="noopener">politirate</a></li>
+          <li><a href="https://github.com/sumanthratna/website" target="_blank" rel="noopener">website</a></li>
+          <li><a href="https://github.com/sumanthratna/tic-tac-toe" target="_blank" rel="noopener">tic-tac-toe</a></li>
+          <li><a href="https://github.com/o-wth/mugen" target="_blank" rel="noopener">mugen</a></li>
+          <li><a href="https://github.com/sumanthratna/grade_view" target="_blank" rel="noopener">FCPS Grade View</a></li>
+          <li><a href="https://github.com/sumanthratna/practica-api" target="_blank" rel="noopener">practica-api</a></li>
+          <li><a href="https://github.com/sumanthratna/soundcloud9000" target="_blank" rel="noopener">soundcloud9000</a></li>
+          <li><a href="https://github.com/sumanthratna/dotprophet" target="_blank" rel="noopener">dotfiles</a></li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
