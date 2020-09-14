@@ -44,9 +44,9 @@
         <details>
           <summary>Gists</summary>
           <ul>
-            <li><a href="https://gist.github.com/sumanthratna/b9b57134bb76c9fc62b73553728ca896" target="_blank" rel="noopener"><pre>tf2_random_index.py</pre></a></li>
-            <li><a href="https://gist.github.com/sumanthratna/58dce4e04feaef702000e8e87caaf6ff" target="_blank" rel="noopener"><pre>triplab.R</pre></a></li>
-            <li><a href="https://gist.github.com/sumanthratna/2a379a616f773a5e8c714357bc71ad7a" target="_blank" rel="noopener"><pre>ibet-graphs.R</pre></a></li>
+            <li><a href="https://gist.github.com/sumanthratna/b9b57134bb76c9fc62b73553728ca896" target="_blank" rel="noopener"><code>tf2_random_index.py</code></a></li>
+            <li><a href="https://gist.github.com/sumanthratna/58dce4e04feaef702000e8e87caaf6ff" target="_blank" rel="noopener"><code>triplab.R</code></a></li>
+            <li><a href="https://gist.github.com/sumanthratna/2a379a616f773a5e8c714357bc71ad7a" target="_blank" rel="noopener"><code>ibet-graphs.R</code></a></li>
           </ul>
         </details>
       </td>
