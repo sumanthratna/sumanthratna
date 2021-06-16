@@ -10,7 +10,14 @@
     <tr>
       <td align="left" style="vertical-align: top;" valign="top">
         <ul>
-          <li>🔭 &nbsp;&nbsp;I’m a student at TJHSST, a digital pathology intern at <a href="https://github.com/DHMC-EDIT" target="_blank" rel="noopener">Dartmouth-Hitchcock Medical Center</a>, a bionformatics intern at George Mason University, the tech lead for <a href="https://github.com/HackTJ" target="_blank" rel="noopener">HackTJ</a>, and a huge fan of <b><a href="http://github.com/ray-project">@ray-project</a></b>.</li>
+          <li>🔭 &nbsp;&nbsp;I am:
+            <ul>
+              <li>a student at TJHSST</li>
+              <li>a digital pathology intern at <a href="https://github.com/DHMC-EDIT" target="_blank" rel="noopener">Dartmouth-Hitchcock Medical Center</a></li>
+              <li>an intern at <a href="https://www.nist.gov/mml" target="_blank" rel="noopener">NIST's Material Measurement Laboratory</a></li>
+              <li>the tech lead for <a href="https://github.com/HackTJ" target="_blank" rel="noopener">HackTJ</a></li>
+              </li>
+        </ul>
           <li>💻 &nbsp;&nbsp;Now, I mostly work on machine learning and computational biology projects, but I have experience with mobile/web development</li>
           <li>😄 &nbsp;&nbsp;Pronouns: he/him</li>
         </ul>
